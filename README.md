@@ -12,3 +12,4 @@ up/down ca sa cresti/scazi nr de iteratii
 poti sa dai zoom/pan  
 daca are probleme/greseli zi-mi nu ma supar  
 in frag.glsl poti sa schimbi un fel de scale la functia de colorare cu gradient ca sa alterneze mai repede culorile  
++ acolo am comentat alte moduri prin care colorez
