@@ -6,6 +6,7 @@ TODO:
 * supersampling (FBO)  
 * comentarii frag/vert shader
 * ? poate un header pt OpenGL
+* sa caute pozele pt gradient in root-ul folderului, nu in cmake-debug
   
 up/down ca sa cresti/scazi nr de iteratii  
 poti sa dai zoom/pan  
