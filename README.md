@@ -8,6 +8,7 @@ TODO:
 * ? poate un header pt OpenGL
 * sa caute pozele pt gradient in root-ul folderului, nu in cmake-debug
 * cand ia gradient din poza sa mearga si poze 2d (cu height > 1) 
+* zoom din ala automat smecher la o anumita pozitie
   
 up/down ca sa cresti/scazi nr de iteratii  
 poti sa dai zoom/pan  
